@@ -37,7 +37,7 @@
 *  [Employee Exit Checklist](./checklists/Employee_Exit_Checklist.md)
 *  [Asset Disposal Policy](./policies/Asset_Disposal_Policy.md)
 
-(Note: Update links above after placing full documents in repository or system)
+
 
 * Maintain an updated **inventory of IT assets** including servers, endpoints, network devices, and virtual infrastructure.
 * Enforce an **Acceptable Use Policy** for organizational IT assets.
