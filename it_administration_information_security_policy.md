@@ -1,11 +1,12 @@
----
+
 
 # **IT Administration – Information Security Policy**
 
 **Based on ISO/IEC 27001:2022 and Annex A Controls**
+
 **Policy Owner:-** Deepak Nemade.
 
----
+
 
 ## **1. Asset Management and Protection**
 
