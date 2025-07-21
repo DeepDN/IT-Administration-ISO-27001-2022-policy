@@ -84,7 +84,6 @@ This project is shared for educational and compliance template reference. Please
 
 Suggestions, forks, and improvements are welcome! Please feel free to raise an issue or submit a pull request.
 
-```
 
----
+
 
