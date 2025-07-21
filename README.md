@@ -1,6 +1,5 @@
 
 
-```markdown
 #  IT Administration – ISO/IEC 27001:2022 Information Security Policy
 
 This repository contains a detailed **Information Security Policy** specifically designed for IT administration and infrastructure management teams. The policy aligns with **ISO/IEC 27001:2022** and addresses key requirements from **Annex A controls**, ensuring comprehensive security and compliance for your organization.
